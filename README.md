@@ -19,7 +19,8 @@ Phones and emails are typed in different ways and collected from different web p
 some of email just for example and it's more complicated than this example
 	follwdbyabdo rezk at stanford.edu; and other examplse you can check files in dev folder
 so at the end you must extract these emails and phones like devGold file as
-Forms you must return of E-mail and Phone
-	example@stanford.edu
-	123-123-1234
+Forms you must return of E-mail and Phone like belows
+
+example@stanford.edu
+123-123-1234
 
