@@ -36,3 +36,9 @@ you can find more description in link below
 
 https://78462f86-a-fa7ed8f8-s-sites.googlegroups.com/a/mohamedaly.info/www/teaching/cmp-462-spring-2013/CMP462%20HW02%20Autocorrect.pdf?attachauth=ANoY7cqF3qn2U1JcK0BjkYpG96KzHo4Ew4pJzd5c4NI06iGJsBzvljl3RSM2MTglcn463yU8y5JCyUawZ3eImmI4odSj93v8YR-y328FzjISZtDn6yQ6pM3tzK0rerN4ZZobNuQMciJdg2tlYYp4gtzLLvJrfuyg8cIqeFaRwMyLoTfv1I0AEAmhYvDPQE9Ni7C5QVAGMa6f7RSM9TwDlxmUnN-j-tIcI_zs6XTXtA7ODBOMYXDh0VWI8VDlN660RgSSe-95a2mictsdIKgDpdI8NgLeLVws5Q%3D%3D&attredirects=0
 
+
+#### Sentiment Analysis Task
+
+This task is required to implement a Naive Bayes classifier  to obtain an average performance of at least 80%.
+You can check my soltion in solve file in python folde.
+also you can find more description of this task in link below
