@@ -42,3 +42,10 @@ https://78462f86-a-fa7ed8f8-s-sites.googlegroups.com/a/mohamedaly.info/www/teach
 This task is required to implement a Naive Bayes classifier  to obtain an average performance of at least 80%.
 You can check my soltion in solve file in python folde.
 also you can find more description of this task in link below
+
+
+#### NER Task
+
+This task is required to get f1 measue over 85 of extracting People name but I got at the end over 84 %
+
+
