@@ -42,10 +42,12 @@ https://78462f86-a-fa7ed8f8-s-sites.googlegroups.com/a/mohamedaly.info/www/teach
 This task is required to implement a Naive Bayes classifier  to obtain an average performance of at least 80%.
 You can check my soltion in solve file in python folde.
 also you can find more description of this task in link below
-
+https://78462f86-a-fa7ed8f8-s-sites.googlegroups.com/a/mohamedaly.info/www/teaching/cmp-462-spring-2013/CMP462%20HW03%20Sentiment.pdf?attachauth=ANoY7cpB8B4tfbvN0Yaeo_DQoKKyHD_F2D81SSpGxr103ve8jA6Wcvb6k554HIPTWXATeRGocevkal55nsKGe-wqIjSylqqOv-aGoKd8yYtwE_bYuKVQvQ2lxr5iMDYJyp9jhGekludNKLebffP6Ow6HnRmh4VhRXl1sTnRK3ZTbW3Awc6BXqzksh2VFDyCzn1ZWPr-iXizmd1FviyyvD_-zs_zJv_eaq3CDJm8u2Kzr5VZa6Fqz6fIOL8YO8UH15rTY0gosA-Md&attredirects=0
 
 #### NER Task
 
 This task is required to get f1 measue over 85 of extracting People name but I got at the end over 84 %
 
+also you can find more description of this task in link below
 
+https://78462f86-a-fa7ed8f8-s-sites.googlegroups.com/a/mohamedaly.info/www/teaching/cmp-462-spring-2013/CMP462%20HW05%20NER.pdf?attachauth=ANoY7croWHCIhodipr7wRqZqF0_HxRgaWmZ8wna1RNFhni3gYnpL6czRz5HdjNBMqXxXm0jjoTL7B5Z64eGelDmhHsTLci6mH9pIcWwX0zZY1EYxrTDcZv3hnc3bLGLl5JJhsMbYAuWYPvI3dnIe1jBGJc_AoZL1S5yk7nsA8x7pyjErGKB3tZvTjZ5W6IjM51xl1tNyGlkcJ_1QMW4EkAlJswADeLedDWEMdbAi-kgGXEGPINlGr_Hw2Q2kxX0ygD5K1w6biens&attredirects=0
